@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hiya 👋
 
 I'm Marcus and I am currently studying to be a full-stack developer at Adelaide University.
+Please have a look at some of my projects below as well as my portfolio.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMalliate&show_icons=true&theme=radical)
 
