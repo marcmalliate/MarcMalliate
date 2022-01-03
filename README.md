@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Marcus and I am currently studying to be a full-stack developer at Adelaide University.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMalliate&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMalliate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **marcmalliate/MarcMalliate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
